@@ -1,51 +1,103 @@
+# RumiWare School-Operating-System
 
-# 🏫 RumiWare SchoolOS
+### A comprehensive school management web application by RumiWare
 
-A modular, full-stack School Management System built with Django and PostgreSQL to manage academic, administrative, financial, and communication workflows.
+**[🌐 Explore the Live Demo](https://rumiware-schoolos.vercel.app)**  
+**[🏢 Visit RumiWare](https://rumiware.com)**
 
-## 🚀 Overview
-SchoolOS brings school operations together in one platform, with role-based dashboards, structured records, and permission-controlled access.
+RumiWare SchoolOS brings academic administration, teaching, family access, finance and campus operations together in one web application.
 
-## ✨ Key Features
-- Student admissions, profiles, and enrollment management
-- Student and staff attendance tracking
-- Examinations, grading, and report cards
-- Fee billing, receipts, refunds, and financial reports
-- Timetables, homework, and teacher assignments
-- Parent, student, and teacher portals
-- Human resources and payroll workflows
-- Library, transport, inventory, and asset management
-- Certificates, announcements, and notifications
-- Analytics, CSV/PDF reports, and dashboards
-- Authentication, role-based permissions, and audit records
+This repository is a public product showcase. Application source code is maintained separately.
 
-## 🛠️ Technology Stack
-- **Backend:** Python 3.13, Django 5.2
+## Explore the Demo
+
+1. Visit **https://rumiware-schoolos.vercel.app**
+2. Click **Explore Demo as Visitor** on the login page.
+3. Select a role perspective or **Explore all modules**.
+4. Browse dashboards, fictional records, reports and workflow previews.
+
+**No registration or password is required for visitor access.**
+
+The demo uses fictional data. Visitors can explore the system without changing shared records. Forms and workflow previews do not execute real transactions.
+
+## Features
+
+| Area | Capabilities |
+|---|---|
+| Academic Management | Academic years, terms, classes, sections, subjects and teaching assignments |
+| Admissions & Students | Admissions, student profiles, enrollment history, transfers and promotion workflows |
+| Guardians & Families | Guardian records, student relationships and family perspectives |
+| Teachers & Staff | Staff profiles, teaching assignments and role-based workspaces |
+| Attendance | Student and staff registers, calendars, leave, corrections and reports |
+| Examinations & Results | Assessment setup, scheduling, marks entry, review, results and report cards |
+| Fees & Finance | Billing, invoices, collections, receipts, concessions, approvals, journals and reconciliation |
+| Timetables | Lesson schedules, rooms, substitutions and scheduling workflows |
+| Homework & Learning | Assignments, submissions, feedback and related reports |
+| Communication | Announcements, events, notifications and messaging previews |
+| HR & Payroll | Employment records, leave, payroll workflows and payslips |
+| Library | Catalog, book copies, loans, issues and returns |
+| Transport | Routes, stops and student transport assignments |
+| Inventory & Assets | Stock movements, equipment and accountable custody |
+| Certificates | Document requests, issuance and verification previews |
+| Analytics & Reporting | Executive dashboards, operational reports, data quality and student progress |
+| Administration | School settings, fictional account and permission previews, and audit-history examples |
+
+## Role Perspectives
+
+Explore how different members of a school interact with SchoolOS:
+
+- School Administrator
+- Principal
+- Teacher
+- Student
+- Parent or Guardian
+- Accountant
+- Examination Controller
+- HR Manager
+- Payroll Officer
+- Librarian
+- Transport Manager
+- Inventory Manager
+- Academic Coordinator
+
+Role perspectives demonstrate different responsibilities without granting visitors access to private administration.
+
+## Demo Experience
+
+- Module navigation and feature discovery
+- Search, filters and pagination
+- Fictional record lists and detail pages
+- Guided journeys across school workflows
+- Dashboard charts and statistics
+- Local form previews
+- Fictional PDF and CSV examples
+- Responsive desktop and mobile layouts
+
+Some demonstration screens use dedicated presenters and fictional scenario snapshots. Workflow previews illustrate outcomes without saving transactions, and CSV previews do not parse uploaded files.
+
+## Technology
+
+- **Backend:** Python and Django
 - **Database:** PostgreSQL
-- **Frontend:** HTML, CSS, JavaScript, Django Templates
-- **Tools:** Pillow, ReportLab, WhiteNoise, Ruff
-- **Deployment:** Vercel and Neon PostgreSQL
+- **Frontend:** Django templates, HTML, CSS and JavaScript
+- **Demo Hosting:** Vercel and Neon
 
-## 👥 User Roles
-System administrators, school administrators, teachers, students, parents/guardians, finance personnel, HR staff, and other authorized users.
+## Product Status
 
-## 🔐 Security
-Includes authentication, permission checks, CSRF protection, login throttling, database constraints, and controlled workflows. Independent security testing is still required.
+SchoolOS is a deployed prototype with an interactive public demo.
 
-## 🌐 Live Demo
-**Website:** https://your-project.vercel.app
+A real-school installation requires requirements review, production configuration, access controls, backup and restore validation, and customer acceptance testing.
 
-## 📂 Source Code
-The main application source code is maintained in a separate private repository. This public repository provides project documentation and portfolio information.
+## Request a Guided Demonstration
 
-## ⚠️ Limitations
-- Not approved for real-school production use
-- No integrated online payment gateway
-- No GPS-based live vehicle tracking
-- Production-grade storage, monitoring, backups, and recovery require further work
-- Security, privacy, payroll, and compliance reviews remain necessary
+Interested in SchoolOS for your school?
 
-## 🎯 Project Purpose
-Designed to centralize school operations, improve recordkeeping, and demonstrate practical full-stack development with Django and PostgreSQL.
+Contact RumiWare to discuss your requirements, request a guided walkthrough, or explore customization and deployment options.
 
-**Built by RumiWare | Python • Django • PostgreSQL**
+**[Contact RumiWare](https://rumiware.com)**
+
+---
+
+**Built by RumiWare**
+
+**[Explore SchoolOS →](https://rumiware-schoolos.vercel.app)**
